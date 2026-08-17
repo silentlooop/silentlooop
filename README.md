@@ -1,4 +1,8 @@
-## Hi there 👋
+hi, i am manthan 
+
+not sure how "let me just fix this one bug" is turning into lifestyle, but here we are.
+i try to build things, they break, i try to fix them, they break differently.
+this is the loop, documented.
 
 <!--
 **silentlooop/silentlooop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
